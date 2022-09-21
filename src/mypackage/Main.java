@@ -10,6 +10,7 @@ public class Main {
         dog1.bark();
         System.out.print("Dog eats: ");
         System.out.println(dog1.eat());
+
     }
 
 }

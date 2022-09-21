@@ -10,5 +10,6 @@ public class Dog {
     }
     public String eat(){
         return("Milk and chappati");
+
     }
 }
