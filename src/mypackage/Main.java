@@ -17,7 +17,7 @@ public class Main {
         System.out.println(dog1.bark());
 
 
-        Dog dog2 =new Dog("Shephard","Black_Brown","Wau",6);
+        Dog dog2 =new Dog("Shepherd","Black_Brown","Wau",6);
         System.out.println(dog2.breed);
         System.out.println(dog2.age);
         System.out.println(dog2.color);
@@ -25,9 +25,5 @@ public class Main {
         System.out.print("Dog eats: ");
         dog2.eat();
         System.out.println(dog2.bark());
-
-
-
     }
-
 }
